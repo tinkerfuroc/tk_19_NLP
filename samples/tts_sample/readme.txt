@@ -1,0 +1,1 @@
+1. compile:for linux 64:source 64bit_make.shfor linux 32:source 32bit_make.sh 2. run:cd ../../bin./tts_sample

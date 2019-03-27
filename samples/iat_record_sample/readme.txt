@@ -1,0 +1,1 @@
+1. compile:for linux 64:source 64bit_make.shfor linux 32:source 32bit_make.sh 2. run:cd ../../bin./iat_record_samplenote:if you encounter this compile error：could not found "alsa/asoundlib.h", no such file or directory.please install the lib: apt-get install libasound2-dev 

@@ -1,0 +1,21 @@
+============================================================
+Time  2019/03/13 15:19:36 029 
+============================================================
+[2019/03/13 15:19:36 029] legacyuup  324  SYS_MSG_LOAD  
+[2019/03/13 15:19:36 031] legacyuup  237  UUP_MSG_START  
+[2019/03/13 15:19:36 031] legacyuup  239  legacyuup  legacyuup_2b9919  268436457  1537257033  
+[2019/03/13 15:19:36 031] legacyuup  282  User set url is   nil  
+[2019/03/13 15:19:36 031] transport  645  paramkvsport is   nil  
+[2019/03/13 15:19:36 032] transport  657  ns_enable=  1  
+[2019/03/13 15:19:36 032] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2019/03/13 15:19:36 032] transport  665  net.nettype=  unknown  
+[2019/03/13 15:19:36 032] transport  675  url.full=  nil  
+[2019/03/13 15:19:36 032] transport  676  urltmp=  nil  
+[2019/03/13 15:19:36 032] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2019/03/13 15:19:36 032] transport  708  url.full=  nil  
+[2019/03/13 15:19:36 032] transport  907  net type:  unknown  
+[2019/03/13 15:19:36 032] transport  908  net operator:  def  
+[2019/03/13 15:19:36 032] transport  909  use proxy:  false  
+[2019/03/13 15:19:36 032] legacyuup  299  not login!  
+[2019/03/13 15:19:36 320] legacyuup  313  UUP_MSG_LGI_RESULT  
+[2019/03/13 15:19:36 321] legacyuup  333  SYS_MSG_UNLOAD  
